@@ -52,6 +52,7 @@ ______________________
 
 
         git clone https://github.com/FJShprog/dynamic_edit_tg_avatar
+        cd dynamic_edit_tg_avatar
         python main.py --token "ВАШ токен"
 
     
