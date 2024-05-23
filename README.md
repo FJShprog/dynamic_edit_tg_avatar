@@ -50,9 +50,14 @@
 ______________________
 УСТАНОВКА И ЗАПУСК:
 
+   разархивируйте avatar.zip, и переходите по дирректорию
+
+  склонируйте или скачайте
 
         git clone https://github.com/FJShprog/dynamic_edit_tg_avatar
-        cd dynamic_edit_tg_avatar
+
+  в дирректории:
+        
         python main.py --token "ВАШ токен"
 
     
